@@ -1,0 +1,1 @@
+content/ontos/A0/A0.05.sentences_onto.yaml
