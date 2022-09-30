@@ -17,11 +17,6 @@ from oauth2client import tools
 from oauth2client.file import Storage
 from apiclient.http import MediaFileUpload
 
-# Import our folder uploading script
-# import initial_upload
-
-# If modifying these scopes, delete your previously saved credentials
-# at ~/.credentials/drive-python-quickstart.json
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly',
           'https://www.googleapis.com/auth/drive.file',
           'https://www.googleapis.com/auth/drive']
@@ -31,8 +26,6 @@ APPLICATION_NAME = 'Drive Sync'
 # Declare full path to folder and folder name
 FULL_PATH = r'/home/ubuntu/level-packs/content'
 DIR_NAME = 'content'
-# Or simply
-# DIR_NAME = FULL_PATH.split('/')[-1]
 
 # Don't really need it here
 GOOGLE_MIME_TYPES = {
@@ -46,20 +39,6 @@ GOOGLE_MIME_TYPES = {
         'application/vnd.openxmlformats-officedocument.presentationml.presentation'
     # 'application/vnd.oasis.opendocument.presentation'
 }
-
-
-# 'application/vnd.google-apps.folder': '',
-# 'application/vnd.google-apps.form': 'application/pdf',
-# 'application/vnd.google-apps.fusiontable': '',
-# 'application/vnd.google-apps.map': 'application/pdf',
-# 'application/vnd.google-apps.photo': 'image/jpeg',
-# 'application/vnd.google-apps.file': '',
-# 'application/vnd.google-apps.sites': '',
-# 'application/vnd.google-apps.unknown': '',
-# 'application/vnd.google-apps.video': '',
-# 'application/vnd.google-apps.audio': '',
-# 'application/vnd.google-apps.drive-sdk': ''
-# 'application/octet-stream': 'text/plain'
 
 
 def folder_upload(service):
