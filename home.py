@@ -12,10 +12,8 @@ st.sidebar.success("User manual page")
 
 st.markdown(
     """
-    1. Input data:
-    2. Pipeline message:
-    3. Main work:
-    4. Report:
+    1. GdriveSync:
+    2. Run Script:
      """
 )
 
