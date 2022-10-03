@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="710ae6f7-007b-441e-ac28-d2d4c7bf7965" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-sentences.docx" beforeDir="false" afterPath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-sentences.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences.config" beforeDir="false" afterPath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences_totag.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences_totag.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/1-4-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/1-4-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/5-8-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/5-8-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.01-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.02-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.02-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.03-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.03-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.03-vocab_partial.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.04-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.04-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.04-vocab_partial.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05-sentences_partial.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.06-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.06-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.07-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.07-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.08-sentences_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.08-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_from_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_from_drive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload_to_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/upload_to_drive.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FTPi2bdqYxAQYUmIlqM8gtEoVO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/lungsang/Desktop/level-packs"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="upload_to_drive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="levelpack-UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/upload_to_drive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.upload_to_drive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="710ae6f7-007b-441e-ac28-d2d4c7bf7965" name="Changes" comment="" />
+      <created>1664513239441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664513239441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

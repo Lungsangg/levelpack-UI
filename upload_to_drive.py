@@ -24,7 +24,7 @@ CLIENT_SECRET_FILE = 'client_secrets.json'
 APPLICATION_NAME = 'Drive Sync'
 
 # Declare full path to folder and folder name
-FULL_PATH = r'/home/ubuntu/level-packs/content'
+FULL_PATH = r'/home/ubuntu/levelpack-UI/content'
 DIR_NAME = 'content'
 
 # Don't really need it here
