@@ -25,7 +25,7 @@ from apiclient.http import MediaIoBaseDownload
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly',
           'https://www.googleapis.com/auth/drive.file',
           'https://www.googleapis.com/auth/drive']
-CLIENT_SECRET_FILE = 'client_secret.json'
+CLIENT_SECRET_FILE = 'client_secrets.json'
 APPLICATION_NAME = 'Drive Sync'
 
 # Declare full path to folder and folder name
