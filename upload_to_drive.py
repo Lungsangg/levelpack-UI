@@ -14,7 +14,8 @@ from oauth2client import tools
 from oauth2client.file import Storage
 from googleapiclient.http import MediaFileUpload
 
-SCOPES = ['https://www.googleapis.com/auth/drive.file',
+SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly',
+          'https://www.googleapis.com/auth/drive.file',
           'https://www.googleapis.com/auth/drive']
 CLIENT_SECRET_FILE = 'client_secrets.json'
 APPLICATION_NAME = 'levelpack-UI'
