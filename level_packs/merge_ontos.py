@@ -1,4 +1,4 @@
-from .onto.leavedonto import OntoManager
+from onto.leavedonto import OntoManager
 
 
 def merge_ontos(ontos_path, out_file):

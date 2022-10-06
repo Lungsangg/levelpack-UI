@@ -1,4 +1,4 @@
-from .onto.leavedonto import OntoManager
+from onto.leavedonto import OntoManager
 
 
 def onto_from_tagged(in_file, out_file, finalized_ontos, current_ontos, onto_path, legend):

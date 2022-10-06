@@ -1,0 +1,7 @@
+openpyxl
+tibetan_sort
+pypandoc
+python-docx
+pyyaml
+botok
+pydrive

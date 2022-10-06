@@ -4,6 +4,7 @@
 
 import datetime
 import io
+import mimetypes
 # import mimetypes
 import os
 import shutil
@@ -16,7 +17,7 @@ from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
 from oauth2client.file import Storage
-from apiclient.http import MediaIoBaseDownload
+from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
 
 # import initial_upload
 
@@ -29,7 +30,7 @@ CLIENT_SECRET_FILE = 'client_secrets.json'
 APPLICATION_NAME = 'levelpack-UI'
 
 # Declare full path to folder and folder name
-FULL_PATH = r'/home/ubuntu/levelpack-UI/content'
+FULL_PATH = r'/home/lungsang/Desktop/level-packs/content'
 DIR_NAME = 'content'
 # Or simply
 # DIR_NAME = FULL_PATH.split('/')[-1]

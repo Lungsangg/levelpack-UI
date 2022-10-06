@@ -1,6 +1,6 @@
 import yaml
 
-from .onto.leavedonto import OntoManager
+from onto.leavedonto import OntoManager
 
 
 def generate_to_tag(in_file, out_file, finalized_ontos, current_ontos, pos, levels, line_mode, l_colors):

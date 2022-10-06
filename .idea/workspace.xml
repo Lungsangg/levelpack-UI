@@ -2,39 +2,122 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710ae6f7-007b-441e-ac28-d2d4c7bf7965" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-sentences.docx" beforeDir="false" afterPath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-sentences.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences.config" beforeDir="false" afterPath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences_totag.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences_totag.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/1-4-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/1-4-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/5-8-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/5-8-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.01-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.02-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.02-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.03-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.03-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.03-vocab_partial.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.04-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.04-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.04-vocab_partial.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05-sentences_partial.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.06-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.06-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.07-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.07-vocab_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.08-sentences_onto.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.08-vocab_onto.yaml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_packs/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/level_packs/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/levelpack-UI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/levelpack-UI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.01-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.03-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.03-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.04-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.04-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.05-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.05-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.05.sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.06-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.06-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.07-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.07-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.08-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.08-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.01-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.02-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.02-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.03-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.03-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.04-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.04-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.05-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.05-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.05.sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.06-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.06-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.07-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.07-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.08-sentences_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/2 docx-text-only/A0.08-vocab_textonly.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.01-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.02-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.02-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.03-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.03-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.04-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.04-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.05-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.05-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.05.sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.06-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.06-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.07-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.07-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.08-sentences_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/3 to-segment/A0.08-vocab_tosegment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.01-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.02-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.02-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.03-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.03-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.04-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.04-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.05-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.05-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.05.sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.06-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.06-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.07-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.07-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.08-sentences_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/4 segmented/A0.08-vocab_segmented.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.01-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.01-vocab_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.02-sentences.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.02-sentences_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.02-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.02-vocab_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.03-sentences.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.03-sentences_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.03-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.03-vocab_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.04-sentences.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.04-sentences_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.04-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.04-vocab_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05-sentences_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05-vocab_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.05.sentences_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.06-sentences.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.06-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.06-vocab_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.07-vocab.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.08-sentences.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.08-sentences_totag.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/5 to-tag/A0.08-vocab_totag.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/download_from_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_from_drive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_packs/create_pack.py" beforeDir="false" afterPath="$PROJECT_DIR$/level_packs/create_pack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_packs/generate_to_tag.py" beforeDir="false" afterPath="$PROJECT_DIR$/level_packs/generate_to_tag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_packs/merge_ontos.py" beforeDir="false" afterPath="$PROJECT_DIR$/level_packs/merge_ontos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_packs/onto_from_tagged.py" beforeDir="false" afterPath="$PROJECT_DIR$/level_packs/onto_from_tagged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/1__GdriveSync.py" beforePathEscaped="$PROJECT_DIR$/pages/1_📥_GdriveSync.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1__GdriveSync.py" afterPathEscaped="$PROJECT_DIR$/pages/1_📥_GdriveSync.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/2__ScriptRun.py" beforePathEscaped="$PROJECT_DIR$/pages/2_💻_ScriptRun.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2__ScriptRun.py" afterPathEscaped="$PROJECT_DIR$/pages/2_💻_ScriptRun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upload_to_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/upload_to_drive.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Blank Requirements File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,10 +134,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/lungsang/Desktop/level-packs"
+    "last_opened_file_path": "/home/lungsang/Desktop/gdrive",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/A0/1 docx-raw" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2_💻_ScriptRun">
+    <configuration name="2_💻_ScriptRun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="levelpack-UI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/2_💻_ScriptRun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="upload_to_drive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="levelpack-UI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_💻_ScriptRun" />
         <item itemvalue="Python.upload_to_drive" />
       </list>
     </recent_temporary>

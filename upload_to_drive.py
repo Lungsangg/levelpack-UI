@@ -1,6 +1,3 @@
-#!/usr/bin/python3
-
-"""Example cooment to make pylint stop giving me errors."""
 
 import datetime
 import hashlib
@@ -15,7 +12,7 @@ from oauth2client import tools
 # from oauth2client.tools import run
 
 from oauth2client.file import Storage
-from apiclient.http import MediaFileUpload
+from googleapiclient.http import MediaFileUpload
 
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly',
           'https://www.googleapis.com/auth/drive.file',
@@ -24,21 +21,18 @@ CLIENT_SECRET_FILE = 'client_secrets.json'
 APPLICATION_NAME = 'levelpack-UI'
 
 # Declare full path to folder and folder name
-FULL_PATH = r'/home/ubuntu/levelpack-UI/content'
+FULL_PATH = r'/home/lungsang/Desktop/levelpack-UI/content'
 DIR_NAME = 'content'
 
-# Don't really need it here
 GOOGLE_MIME_TYPES = {
     'application/vnd.google-apps.document':
         'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
-    # 'application/vnd.oasis.opendocument.text',
     'application/vnd.google-apps.spreadsheet':
         'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
-    # 'application/vnd.oasis.opendocument.spreadsheet',
     'application/vnd.google-apps.presentation':
         'application/vnd.openxmlformats-officedocument.presentationml.presentation'
-    # 'application/vnd.oasis.opendocument.presentation'
 }
+
 
 
 def folder_upload(service):
@@ -136,11 +130,7 @@ def get_credentials():
     if not credentials or credentials.invalid:
         flow = client.flow_from_clientsecrets(CLIENT_SECRET_FILE, SCOPES)
         flow.user_agent = APPLICATION_NAME
-        # if flags:
         credentials = tools.run_flow(flow, store, flags=None)
-        # else:  # Needed only for compatibility with Python 2.6
-        # flags = None
-        # credentials = tools.run_flow(flow, store, flags)
         print('Storing credentials to ', credential_path)
     return credentials
 
@@ -234,8 +224,6 @@ def main():
 
     # Add starting directory
     exact_folders.append(folder_name)
-    # Sort uploadable folders
-    # so now in can be upload from top to down of tree
     upload_folders = sorted(upload_folders, key=by_lines)
 
     # Here we upload new (abcent on Drive) folders
