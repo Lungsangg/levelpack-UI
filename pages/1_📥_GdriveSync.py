@@ -1,6 +1,4 @@
 import streamlit as st
-from time import sleep
-from stqdm import stqdm
 from upload_to_drive import main as u
 from download_from_drive import main as d
 
