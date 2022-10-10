@@ -21,7 +21,7 @@ CLIENT_SECRET_FILE = 'client_secrets.json'
 APPLICATION_NAME = 'levelpack-UI'
 
 # Declare full path to folder and folder name
-FULL_PATH = r'/home/ubuntu/levelpack-UI/content'
+FULL_PATH = r'/home/lungsang/Desktop/levelpack-UI/content'
 DIR_NAME = 'content'
 
 GOOGLE_MIME_TYPES = {

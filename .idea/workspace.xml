@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710ae6f7-007b-441e-ac28-d2d4c7bf7965" name="Changes" comment="" />
+    <list default="true" id="710ae6f7-007b-441e-ac28-d2d4c7bf7965" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.01-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.02-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.03-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.03-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.04-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.04-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.05-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.05-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.05.sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.06-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.06-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.07-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.07-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.08-sentences.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/A0/1 docx-raw/A0.08-vocab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.01-vocab_onto.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ontos/A0/A0.05.sentences_partial.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_from_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/download_from_drive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level_packs/extract_level_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/level_packs/extract_level_content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/2__ScriptRun.py" beforePathEscaped="$PROJECT_DIR$/pages/2_💻_ScriptRun.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2__ScriptRun.py" afterPathEscaped="$PROJECT_DIR$/pages/2_💻_ScriptRun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload_to_drive.py" beforeDir="false" afterPath="$PROJECT_DIR$/upload_to_drive.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

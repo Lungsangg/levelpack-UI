@@ -7,7 +7,7 @@ st.set_page_config(page_title="Main work", page_icon="💻")
 
 def create_packs():
     create_pack_script_fn = Path(__file__).parent.parent / "level_packs" / "create_pack.py"
-    result = subprocess.run(["/home/ubuntu/levelpack-UI/pypy/bin/pypy", str(create_pack_script_fn)],
+    result = subprocess.run(["/home/lungsang/Desktop/levelpack-UI/pypy/bin/pypy", str(create_pack_script_fn)],
                             capture_output=True)
     for line in result.stdout.decode().splitlines():
         st.write(line)
